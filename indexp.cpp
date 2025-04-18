@@ -6,8 +6,8 @@ int main() {
     cout << "Enter two numbers: ";
     cin >> a >> b;
 
-    int sum = a + b;
-    cout << "Sum: " << sum << endl;
+    int suo = a + b;
+    cout << "Sum: " << suo << endl;
 
     return 0;
     
